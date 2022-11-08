@@ -258,7 +258,7 @@ export default {
         backendOptions: [{ value: "https://subconver-yokotoyo.koyeb.app/sub?" }],
         remoteConfig: [
           {
-                      label: "通用",
+            label: "通用",
             options: [
               {
                 label: "默认",
@@ -634,8 +634,10 @@ export default {
               {
                 label: "Basic",
                 value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
-              },
-              {
+              }
+            ]
+          },
+          {
             label: "universal",
             options: [
               {
